@@ -1,6 +1,6 @@
 /* UVM  POO
  * Areli Rosas 01-21
- * Alejandro
+ * Alejandro 01-21
  */
 package ejemplo1gh;
 
@@ -12,6 +12,10 @@ public class Ejemplo1GH {
         JOptionPane.showMessageDialog(null, "Hola GitHub"); 
         JOptionPane.showMessageDialog(null, "Hola modificado desde otra copia"); 
         JOptionPane.showMessageDialog(null, "Soy Alejandro"); 
+         JOptionPane.showMessageDialog(null, "EAFC"); 
+         JOptionPane.showMessageDialog(null, "EAFC"); 
+         JOptionPane.showMessageDialog(null, "EAFC"); 
+        
          
     }
     
