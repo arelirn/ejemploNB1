@@ -9,6 +9,7 @@ public class Ejemplo1GH {
 
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola GitHub"); 
+        JOptionPane.showMessageDialog(null, "Hola modificado desde otra copia"); 
     }
     
 }
